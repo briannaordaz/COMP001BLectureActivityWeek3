@@ -1,0 +1,22 @@
+nav {
+    width: 20%;
+    float: left;
+    
+    
+}
+
+main {
+    width: 55%;
+    float: left
+}
+
+.side {
+    width: 25%
+    float: left;
+    
+
+}
+
+h1 {
+    text-align: center;
+}
